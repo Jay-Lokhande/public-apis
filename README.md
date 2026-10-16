@@ -1,12 +1,10 @@
 # Public APIs
 
-A catalog of **open data and official API portals** for student projects — government open data, Wikidata, weather, and curated directories. Use only documented, **legal** endpoints; no scraping gray areas.
+A catalog of **open data and official API portals** for student projects — government open data, Wikidata, weather, and curated directories. Use only documented, **legal** endpoints; no scraping gray areas. You can [navigate](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 > **Disclaimer:** Keys, quotas, and ToS change. Read each provider’s terms before shipping a project.
 
 > **Stay safe:** Fake “API reseller” scams → [resources/api-scams.md](resources/api-scams.md)
-
-A catalog for builders who need **datasets and HTTP APIs**. You can [navigate](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 **Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [public-apis](https://jay-lokhande.github.io/public-apis/) · [design-for-devs](https://jay-lokhande.github.io/design-for-devs/) · [cloud-student](https://jay-lokhande.github.io/cloud-student/) · [maker-student](https://jay-lokhande.github.io/maker-student/) · [game-dev-student](https://jay-lokhande.github.io/game-dev-student/)
 
