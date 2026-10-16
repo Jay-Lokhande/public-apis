@@ -5,7 +5,7 @@ Same maintainer; start at the **hub** if you are not sure where to go.
 | Catalog | What it covers | GitHub | GitHub Pages |
 | --- | --- | --- | --- |
 | **Student Dev Catalogs** *(hub)* | All catalogs + where to start | [student-dev-catalogs](https://github.com/Jay-Lokhande/student-dev-catalogs) | [Read](https://jay-lokhande.github.io/student-dev-catalogs/) |
-| **All You Have To Do Is Believe** | OSS programs, hackathons, scholarships | [oss-programs-and-hackathons](https://github.com/Jay-Lokhande/oss-programs-and-hackathons) | [Read](https://jay-lokhande.github.io/oss-programs-and-hackathons/) |
+| **All You Have To Do Is Believe** | OSS programs, hackathons, scholarships | [public-apis](https://github.com/Jay-Lokhande/oss-programs-and-hackathons) | [Read](https://jay-lokhande.github.io/oss-programs-and-hackathons/) |
 | **Build Grants** | FOSS & security grants | [build-grants](https://github.com/Jay-Lokhande/build-grants) | [Read](https://jay-lokhande.github.io/build-grants/) |
 | **Hack Safe** | CTF, OWASP, bug bounty platforms | [hack-safe](https://github.com/Jay-Lokhande/hack-safe) | [Read](https://jay-lokhande.github.io/hack-safe/) |
 | **Public APIs** | Open data & official API portals | [public-apis](https://github.com/Jay-Lokhande/public-apis) | [Read](https://jay-lokhande.github.io/public-apis/) |
