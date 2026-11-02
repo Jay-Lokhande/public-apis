@@ -3,5 +3,10 @@
     "name": "data.gov",
     "category": "government",
     "url": "https://data.gov/"
+  },
+  {
+    "name": "Bucketlist Dream of the Day",
+    "category": "activities",
+    "url": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json"
   }
 ]

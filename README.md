@@ -48,6 +48,12 @@ A catalog of **open data and official API portals** for student projects — gov
 | OpenRouteService | [openrouteservice.org](https://openrouteservice.org/) |
 | Transitland | [transit.land](https://www.transit.land/) |
 
+## Activities & inspiration
+
+| Name | Best for | Official |
+| --- | --- | --- |
+| Bucketlist Dream of the Day | Free keyless daily-experience JSON; Dutch/Netherlands by default | [OpenAPI specification](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) |
+
 ## Related
 
 | Need | Sister repo |
